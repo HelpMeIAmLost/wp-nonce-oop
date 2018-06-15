@@ -1,0 +1,24 @@
+{
+    "name": "HelpMeIAmLost/wpnonceoop",
+    "description": "Composer package of an OOP implementation of WordPress Nonce functionalities.",
+    "keywords": ["wordpress", "nonce", "oop", "composer", "package"],
+    "authors": [
+        {
+            "name": "Rowen Chumacera",
+            "email": "rschumacera@yahoo.com"
+        }
+    ],
+    "type": "task",
+    "require": {
+		"php": ">=7.0"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "^7",
+        "inpsyde/php-coding-standards": "~0.13.1"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
