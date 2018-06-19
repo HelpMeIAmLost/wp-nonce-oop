@@ -1,5 +1,4 @@
 # HelpMeIAmLost\WPNonceOOP
-=========================
 This is a Composer package of an object-oriented implementation of the following WordPress nonce functionalities:
 * wp_create_nonce()
 * wp_nonce_url()
@@ -11,12 +10,10 @@ This is a Composer package of an object-oriented implementation of the following
 * wp_referer_field()
 
 ## Features
---------
 * Unit testing with PHPUnit
 * Comprehensive guides
 
 ## Usage
-========================
 ### Using the OOP implementation
 Add the following line to your `functions.php` file:
 ```
