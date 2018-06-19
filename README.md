@@ -1,4 +1,7 @@
 # HelpMeIAmLost\WPNonceOOP
+## :exclamation: Disclaimer :exclamation:
+This package is not fully functional and was created for demonstration purposes only.
+
 This is a Composer package of an object-oriented implementation of the following WordPress nonce functionalities:
 * wp_create_nonce()
 * wp_nonce_url()
